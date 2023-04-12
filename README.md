@@ -1,4 +1,4 @@
-# cabbage
+# 🥬 cabbage
 
 **cabbage** is a personal project to practice Python, Kafka, Docker, Flask and FastAPI
 
