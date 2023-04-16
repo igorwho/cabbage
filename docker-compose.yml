@@ -30,3 +30,8 @@ services:
       KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: PLAINTEXT:PLAINTEXT,PLAINTEXT_HOST:PLAINTEXT
     networks:
       - cabbage-network
+
+networks:
+  cabbage-network:
+    name: cabbage-network
+    driver: bridge
