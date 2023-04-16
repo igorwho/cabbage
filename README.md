@@ -2,7 +2,9 @@
 
 **cabbage** is a personal project to practice Python, Kafka, Docker, Flask and FastAPI
 
-## Installation
+## Build
+
+Use make command to build and run the project.
 
 Use  the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
