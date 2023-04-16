@@ -4,9 +4,8 @@
 
 ## Build
 
-Use make command to build and run the project.
+Use make command to build and run the project. 
 
-Use  the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
 pip install foobar
